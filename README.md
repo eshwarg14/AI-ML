@@ -1,6 +1,14 @@
 # AI & Machine Learning
 A collection of AI and machine learning projects built with Python - includes weather prediction, health monitoring, crop disease detection and traffic sign recognition
 
+
+## Contributors
+- Eshwar G
+- Shivani R
+
+## Notes
+This project demonstrates practical applications of AI and ML concepts.
+
 ## 📁 Repository Structure
 
 ```
