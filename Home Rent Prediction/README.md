@@ -6,8 +6,7 @@ A Machine Learning-based application that predicts house rent based on features 
 
 ## Preview
 
-![Demo](Images/rent1.png)
-![Demo](Images/rent2.png)
+![Demo](https://github.com/eshwarg14/AI-ML/raw/39624e4b1ab2fb56993a7035e78a018b9fe1d693/Images/HRP.png)
 
 ---
 
