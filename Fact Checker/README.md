@@ -6,8 +6,7 @@ A GUI-based AI application that analyzes news or text to determine whether it is
 
 ## Preview
 
-![Demo](Images/fake1.png)
-![Demo](Images/fake2.png)
+![Demo](https://github.com/eshwarg14/AI-ML/raw/2cef3f6b87860e07adcb9c32e02670bcc556fb61/Images/FC.png)
 
 ---
 
