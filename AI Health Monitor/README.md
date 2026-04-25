@@ -6,8 +6,7 @@ An advanced AI-powered healthcare application that predicts **Cardiovascular Dis
 
 ## Preview
 
-![Demo](Images/cardio1.png)
-![Demo](Images/cardio2.png)
+![Demo](https://github.com/eshwarg14/AI-ML/raw/95cfd502e1f3990b1c6030068cbce8d11e49ad2e/Images/HM.png)
 
 ---
 
