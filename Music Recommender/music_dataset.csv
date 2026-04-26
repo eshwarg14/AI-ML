@@ -1,0 +1,153 @@
+mood,type,title,artist,film_album,language,energy,valence,tempo,acousticness,danceability
+happy,Indian,Badtameez Dil,Pritam,Yeh Jawaani Hai Deewani,Hindi,0.85,0.90,128,0.10,0.88
+happy,Indian,Chammak Challo,Akon & Hamsika,Ra.One,Hindi,0.88,0.88,132,0.05,0.90
+happy,Indian,Gallan Goodiyaan,Shankar-Ehsaan-Loy,Dil Dhadakne Do,Hindi,0.80,0.87,120,0.15,0.85
+happy,Indian,Jai Ho,A.R. Rahman,Slumdog Millionaire,Hindi,0.82,0.85,124,0.12,0.83
+happy,Indian,Naatu Naatu,M.M. Keeravaani,RRR,Telugu,0.92,0.93,140,0.08,0.92
+happy,Indian,Vaathi Coming,Anirudh Ravichander,Master,Tamil,0.90,0.89,136,0.06,0.91
+happy,Indian,Kala Chashma,Badshah,Baar Baar Dekho,Hindi,0.86,0.88,130,0.07,0.89
+happy,Indian,Butta Bomma,Armaan Malik,Ala Vaikunthapurramuloo,Telugu,0.75,0.86,118,0.18,0.82
+happy,Indian,Seeti Maar,DSP,Radhe,Hindi,0.88,0.87,134,0.09,0.90
+happy,Indian,Kusu Kusu,Tanishk Bagchi,Satyameva Jayate 2,Hindi,0.84,0.85,126,0.11,0.86
+happy,Western,Happy,Pharrell Williams,G I R L,English,0.85,0.96,160,0.10,0.83
+happy,Western,Can't Stop the Feeling,Justin Timberlake,Trolls OST,English,0.80,0.94,113,0.08,0.86
+happy,Western,Uptown Funk,Mark Ronson ft. Bruno Mars,Uptown Special,English,0.88,0.90,115,0.06,0.90
+happy,Western,Shake It Off,Taylor Swift,1989,English,0.82,0.91,160,0.07,0.87
+happy,Western,Dancing Queen,ABBA,Arrival,English,0.78,0.93,102,0.12,0.85
+happy,Western,Good as Hell,Lizzo,Cuz I Love You,English,0.75,0.88,95,0.14,0.82
+happy,Western,Levitating,Dua Lipa,Future Nostalgia,English,0.83,0.92,103,0.09,0.88
+happy,Western,Blinding Lights,The Weeknd,After Hours,English,0.87,0.89,171,0.05,0.84
+happy,Western,Watermelon Sugar,Harry Styles,Fine Line,English,0.79,0.91,95,0.13,0.86
+happy,Western,As It Was,Harry Styles,Harry's House,English,0.76,0.88,174,0.16,0.80
+sad,Indian,Channa Mereya,Arijit Singh,Ae Dil Hai Mushkil,Hindi,0.25,0.15,68,0.72,0.35
+sad,Indian,Tum Hi Ho,Arijit Singh,Aashiqui 2,Hindi,0.20,0.12,60,0.78,0.30
+sad,Indian,Agar Tum Saath Ho,Alka Yagnik & Arijit,Tamasha,Hindi,0.22,0.14,65,0.75,0.32
+sad,Indian,Kabira,Rekha Bhardwaj,Yeh Jawaani Hai Deewani,Hindi,0.28,0.18,72,0.68,0.38
+sad,Indian,Nenjukulle,A.R. Rahman,Kadal,Tamil,0.18,0.10,58,0.82,0.28
+sad,Indian,Roja Jaaneman,S.P. Balasubrahmanyam,Roja,Tamil,0.15,0.08,55,0.85,0.25
+sad,Indian,Kalank,Arijit Singh,Kalank,Hindi,0.23,0.13,62,0.74,0.33
+sad,Indian,Ae Dil Hai Mushkil,Arijit Singh,Ae Dil Hai Mushkil,Hindi,0.21,0.11,63,0.76,0.31
+sad,Indian,Phir Le Aya Dil,Arijit Singh,Barfi,Hindi,0.19,0.12,59,0.80,0.29
+sad,Indian,Judaai,Arijit Singh,Bad Boy,Hindi,0.24,0.16,67,0.71,0.36
+sad,Western,Someone Like You,Adele,21,English,0.22,0.14,68,0.80,0.28
+sad,Western,The Night We Met,Lord Huron,Strange Trails,English,0.28,0.12,86,0.70,0.32
+sad,Western,Skinny Love,Bon Iver,For Emma Forever Ago,English,0.18,0.10,80,0.85,0.24
+sad,Western,Fix You,Coldplay,X&Y,English,0.30,0.20,138,0.65,0.36
+sad,Western,Let Her Go,Passenger,All the Little Lights,English,0.25,0.15,75,0.75,0.30
+sad,Western,Tears in Heaven,Eric Clapton,Rush OST,English,0.20,0.12,78,0.82,0.26
+sad,Western,The Scientist,Coldplay,A Rush of Blood,English,0.24,0.13,76,0.78,0.29
+sad,Western,Liability,Lorde,Melodrama,English,0.16,0.09,78,0.88,0.22
+sad,Western,When the Party's Over,Billie Eilish,Don't Smile at Me,English,0.15,0.08,72,0.90,0.20
+sad,Western,Exile,Taylor Swift ft. Bon Iver,Folklore,English,0.19,0.11,74,0.83,0.25
+energetic,Indian,Zinda,Siddharth Mahadevan,Bhaag Milkha Bhaag,Hindi,0.95,0.80,145,0.05,0.78
+energetic,Indian,Sultan,Sukhwinder Singh,Sultan,Hindi,0.93,0.78,142,0.06,0.76
+energetic,Indian,Kar Har Maidaan Fateh,Sukhwinder Singh,Sanju,Hindi,0.92,0.82,138,0.07,0.79
+energetic,Indian,Rang De Basanti,A.R. Rahman,Rang De Basanti,Hindi,0.90,0.79,135,0.08,0.77
+energetic,Indian,Beast Mode,Anirudh Ravichander,Beast,Tamil,0.96,0.81,150,0.04,0.80
+energetic,Indian,Rowdy Baby,Dhanush & Dhee,Maari 2,Tamil,0.88,0.84,132,0.09,0.85
+energetic,Indian,Khalibali,Shivam Pathak,Padmaavat,Hindi,0.91,0.77,140,0.06,0.75
+energetic,Indian,Simmba Title Track,Arijit & Nikhita,Simmba,Hindi,0.89,0.80,136,0.07,0.78
+energetic,Indian,Jai Jai Shivshankar,Vishal-Shekhar,War,Hindi,0.94,0.82,144,0.05,0.81
+energetic,Indian,Aankhon Ki Gustakhiyan,Vishal-Shekhar,War,Hindi,0.87,0.79,130,0.10,0.76
+energetic,Western,Eye of the Tiger,Survivor,Eye of the Tiger,English,0.92,0.75,109,0.06,0.72
+energetic,Western,Thunderstruck,AC/DC,The Razors Edge,English,0.95,0.78,133,0.04,0.70
+energetic,Western,Till I Collapse,Eminem,The Eminem Show,English,0.94,0.72,171,0.05,0.74
+energetic,Western,Stronger,Kanye West,Graduation,English,0.88,0.76,104,0.07,0.78
+energetic,Western,Lose Yourself,Eminem,8 Mile OST,English,0.90,0.70,171,0.06,0.72
+energetic,Western,Don't Stop Me Now,Queen,Jazz,English,0.86,0.88,156,0.08,0.80
+energetic,Western,Run the World,Beyoncé,4,English,0.89,0.80,128,0.07,0.82
+energetic,Western,Power,Kanye West,MBDTF,English,0.91,0.74,90,0.05,0.74
+energetic,Western,Believer,Imagine Dragons,Evolve,English,0.87,0.73,125,0.06,0.76
+energetic,Western,Radioactive,Imagine Dragons,Night Visions,English,0.85,0.71,136,0.07,0.73
+romantic,Indian,Tere Liye,Atif Aslam,Prince,Hindi,0.35,0.75,75,0.55,0.52
+romantic,Indian,Kesariya,Arijit Singh,Brahmastra,Hindi,0.40,0.78,80,0.50,0.55
+romantic,Indian,Raabta,Arijit Singh,Agent Sai Srinivasa,Hindi,0.38,0.76,78,0.52,0.53
+romantic,Indian,Tera Ban Jaunga,Akhil & Tulsi Kumar,Kabir Singh,Hindi,0.42,0.79,82,0.48,0.57
+romantic,Indian,Vinnaithaandi Varuvaaya,A.R. Rahman,Vinnaithaandi Varuvaaya,Tamil,0.36,0.74,76,0.54,0.51
+romantic,Indian,Yennai Maatrum Kadhali,Sid Sriram,Takkar,Tamil,0.33,0.72,72,0.58,0.49
+romantic,Indian,Mere Haath Mein,Udit Narayan,Fanaa,Hindi,0.44,0.80,84,0.46,0.58
+romantic,Indian,Ik Vaari Aa,Arijit Singh,Raazi,Hindi,0.37,0.75,77,0.53,0.52
+romantic,Indian,Tujh Mein Rab Dikhta Hai,Roop Kumar Rathod,Rab Ne Bana Di Jodi,Hindi,0.32,0.73,70,0.60,0.48
+romantic,Indian,Hawayein,Arijit Singh,Jab Harry Met Sejal,Hindi,0.39,0.77,79,0.51,0.54
+romantic,Western,Perfect,Ed Sheeran,Divide,English,0.45,0.82,95,0.48,0.58
+romantic,Western,All of Me,John Legend,Love in the Future,English,0.40,0.78,63,0.52,0.53
+romantic,Western,A Thousand Years,Christina Perri,The Twilight Saga,English,0.35,0.76,95,0.56,0.50
+romantic,Western,Make You Feel My Love,Adele,19,English,0.30,0.72,68,0.62,0.45
+romantic,Western,Thinking Out Loud,Ed Sheeran,X,English,0.48,0.80,79,0.44,0.60
+romantic,Western,Can't Help Falling in Love,Elvis Presley,Blue Hawaii,English,0.38,0.79,88,0.54,0.55
+romantic,Western,Lover,Taylor Swift,Lover,English,0.44,0.81,69,0.48,0.58
+romantic,Western,Amazed,Lonestar,Lonely Grill,English,0.36,0.77,76,0.55,0.52
+romantic,Western,Just the Way You Are,Bruno Mars,Doo-Wops & Hooligans,English,0.50,0.83,109,0.42,0.62
+romantic,Western,Die for You,The Weeknd,Starboy,English,0.42,0.78,99,0.46,0.56
+relaxed,Indian,Kun Faya Kun,A.R. Rahman,Rockstar,Hindi,0.20,0.55,60,0.80,0.32
+relaxed,Indian,Dil Se Re,A.R. Rahman,Dil Se,Hindi,0.22,0.52,65,0.78,0.30
+relaxed,Indian,Iktara,Kavita Seth,Wake Up Sid,Hindi,0.18,0.58,58,0.82,0.28
+relaxed,Indian,Luka Chuppi,A.R. Rahman,Rang De Basanti,Hindi,0.25,0.60,68,0.75,0.35
+relaxed,Indian,Nenjil Jil Jil,Karthik,Vinnai Thaandi Varuvaaya,Tamil,0.19,0.56,60,0.81,0.29
+relaxed,Indian,Adiye,Sid Sriram,Kannum Kannum Kollaiyadithaal,Tamil,0.21,0.58,63,0.79,0.31
+relaxed,Indian,Safar,Arijit Singh,Jab Harry Met Sejal,Hindi,0.23,0.54,66,0.77,0.33
+relaxed,Indian,Tum Se Hi,Mohit Chauhan,Jab We Met,Hindi,0.17,0.57,57,0.83,0.27
+relaxed,Indian,Aaoge Jab Tum,Ustad Rashid Khan,Jab We Met,Hindi,0.16,0.55,55,0.85,0.26
+relaxed,Indian,O Saya,A.R. Rahman,Slumdog Millionaire,Hindi,0.24,0.59,67,0.76,0.34
+relaxed,Western,Weightless,Marconi Union,Weightless,English,0.12,0.45,60,0.92,0.20
+relaxed,Western,Banana Pancakes,Jack Johnson,In Between Dreams,English,0.28,0.62,76,0.72,0.38
+relaxed,Western,Better Together,Jack Johnson,In Between Dreams,English,0.25,0.65,107,0.75,0.40
+relaxed,Western,Island in the Sun,Weezer,Weezer Green Album,English,0.32,0.68,118,0.68,0.44
+relaxed,Western,Somewhere Over the Rainbow,Israel Kamakawiwo'ole,Facing Future,English,0.15,0.60,75,0.88,0.25
+relaxed,Western,Ho Hey,The Lumineers,The Lumineers,English,0.35,0.65,162,0.65,0.45
+relaxed,Western,Slow Dancing in a Burning Room,John Mayer,Continuum,English,0.30,0.55,84,0.70,0.35
+relaxed,Western,Yellow,Coldplay,Parachute,English,0.38,0.62,174,0.62,0.42
+relaxed,Western,Breezeblocks,Alt-J,An Awesome Wave,English,0.22,0.50,88,0.78,0.30
+relaxed,Western,The Night Will Always Win,Manchester Orchestra,Hope,English,0.20,0.48,72,0.80,0.28
+focused,Indian,Breathe,A.R. Rahman,Guru,Hindi,0.30,0.50,70,0.70,0.38
+focused,Indian,Roja Theme,A.R. Rahman,Roja,Instrumental,0.25,0.48,65,0.75,0.32
+focused,Indian,Lagaan Theme,A.R. Rahman,Lagaan,Instrumental,0.28,0.50,68,0.72,0.35
+focused,Indian,Slumdog Millionaire OST,A.R. Rahman,Slumdog Millionaire,Instrumental,0.32,0.52,72,0.68,0.38
+focused,Indian,Ilayaraja Piano,Ilayaraja,Various,Instrumental,0.20,0.45,60,0.80,0.28
+focused,Indian,Dil Chahta Hai Theme,Shankar-Ehsaan-Loy,Dil Chahta Hai,Instrumental,0.26,0.49,66,0.74,0.33
+focused,Indian,Guitar Instrumental,Prasanna,Various,Instrumental,0.18,0.46,58,0.82,0.26
+focused,Indian,Maaya,Vijay Prakash,Various,Kannada,0.22,0.47,62,0.78,0.30
+focused,Western,Experience,Ludovico Einaudi,In a Time Lapse,Instrumental,0.18,0.50,72,0.88,0.25
+focused,Western,Clair de Lune,Debussy,Suite bergamasque,Classical,0.12,0.52,54,0.95,0.18
+focused,Western,Time,Hans Zimmer,Inception OST,Instrumental,0.35,0.48,60,0.70,0.30
+focused,Western,Comptine d'un autre été,Yann Tiersen,Amélie OST,Instrumental,0.15,0.55,76,0.92,0.22
+focused,Western,Interstellar Main Theme,Hans Zimmer,Interstellar OST,Instrumental,0.30,0.46,58,0.75,0.28
+focused,Western,River Flows in You,Yiruma,From the Yellow Room,Instrumental,0.14,0.53,66,0.93,0.20
+focused,Western,Divenire,Ludovico Einaudi,Divenire,Instrumental,0.22,0.50,80,0.85,0.26
+focused,Western,Nuvole Bianche,Ludovico Einaudi,Una Mattina,Instrumental,0.16,0.51,70,0.90,0.22
+focused,Western,On the Nature of Daylight,Max Richter,The Blue Notebooks,Instrumental,0.10,0.48,60,0.95,0.18
+focused,Western,A Moment Apart,ODESZA,A Moment Apart,Instrumental,0.28,0.52,90,0.78,0.32
+angry,Indian,Deva Shree Ganesha,Ajay-Atul,Agneepath,Hindi,0.92,0.55,138,0.05,0.65
+angry,Indian,Sadda Haq,Mohit Chauhan,Rockstar,Hindi,0.88,0.52,132,0.07,0.62
+angry,Indian,Kabali Theme,Santhosh Narayanan,Kabali,Tamil,0.90,0.50,135,0.06,0.60
+angry,Indian,Singham Theme,Ajay-Atul,Singham,Hindi,0.94,0.53,142,0.04,0.63
+angry,Indian,Bhaag DK Bose,Ram Sampath,Delhi Belly,Hindi,0.86,0.56,128,0.08,0.68
+angry,Indian,Vettaikaran,Vijay Antony,Vettaikaran,Tamil,0.91,0.51,138,0.05,0.61
+angry,Indian,Rowdy Rathore Theme,Sajid-Wajid,Rowdy Rathore,Hindi,0.89,0.54,134,0.06,0.64
+angry,Indian,Gajanana,Ajay-Atul,Bajirao Mastani,Hindi,0.87,0.57,130,0.07,0.66
+angry,Western,Break Stuff,Limp Bizkit,Significant Other,English,0.94,0.48,110,0.04,0.58
+angry,Western,Given Up,Linkin Park,Minutes to Midnight,English,0.92,0.45,182,0.05,0.55
+angry,Western,Bulls on Parade,Rage Against the Machine,Evil Empire,English,0.95,0.46,96,0.03,0.56
+angry,Western,Killing in the Name,Rage Against the Machine,RATM,English,0.93,0.44,109,0.04,0.54
+angry,Western,Chop Suey!,System of a Down,Toxicity,English,0.91,0.42,176,0.05,0.52
+angry,Western,Numb,Linkin Park,Meteora,English,0.88,0.50,108,0.06,0.60
+angry,Western,Down with the Sickness,Disturbed,The Sickness,English,0.90,0.43,124,0.04,0.53
+angry,Western,In the End,Linkin Park,Hybrid Theory,English,0.85,0.48,105,0.08,0.58
+nostalgic,Indian,Yeh Dosti,Kishore Kumar & Manna Dey,Sholay,Hindi,0.55,0.72,98,0.40,0.62
+nostalgic,Indian,Ek Pyaar Ka Nagma Hai,Lata Mangeshkar,Shor,Hindi,0.35,0.68,72,0.62,0.45
+nostalgic,Indian,Purani Jeans,Ali Haider,—,Hindi,0.48,0.70,88,0.50,0.56
+nostalgic,Indian,Kuch Kuch Hota Hai,Udit Narayan & Kavita,Kuch Kuch Hota Hai,Hindi,0.60,0.74,102,0.38,0.65
+nostalgic,Indian,Pehla Nasha,Udit Narayan,Jo Jeeta Wohi Sikandar,Hindi,0.42,0.69,80,0.55,0.52
+nostalgic,Indian,Mere Yaar Ki Shaadi,Udit Narayan,Mere Yaar Ki Shaadi Hai,Hindi,0.58,0.73,98,0.40,0.63
+nostalgic,Indian,Zindagi Kaisi Hai Paheli,Manna Dey,Anand,Hindi,0.30,0.65,68,0.68,0.42
+nostalgic,Indian,Tere Bina Zindagi,Kishore Kumar,Aandhi,Hindi,0.32,0.66,70,0.66,0.44
+nostalgic,Western,Bohemian Rhapsody,Queen,A Night at the Opera,English,0.65,0.68,72,0.30,0.58
+nostalgic,Western,Hotel California,Eagles,Hotel California,English,0.55,0.65,147,0.38,0.54
+nostalgic,Western,Wonderwall,Oasis,What's the Story Morning Glory,English,0.48,0.70,87,0.48,0.58
+nostalgic,Western,Don't You Forget About Me,Simple Minds,The Breakfast Club OST,English,0.62,0.72,110,0.32,0.62
+nostalgic,Western,Come As You Are,Nirvana,Nevermind,English,0.50,0.58,120,0.45,0.52
+nostalgic,Western,Sweet Child O' Mine,Guns N' Roses,Appetite for Destruction,English,0.70,0.66,125,0.25,0.56
+nostalgic,Western,Africa,Toto,Toto IV,English,0.58,0.72,93,0.38,0.60
+nostalgic,Western,Take On Me,a-ha,Hunting High and Low,English,0.72,0.75,168,0.22,0.65
+nostalgic,Western,Eye of the Tiger,Survivor,Eye of the Tiger,English,0.80,0.70,109,0.18,0.68
+nostalgic,Western,Every Breath You Take,The Police,Synchronicity,English,0.45,0.62,117,0.52,0.55
