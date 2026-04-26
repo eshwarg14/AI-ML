@@ -6,8 +6,7 @@ An advanced AI-powered Resume Analyzer that evaluates resumes against job descri
 
 ## Preview
 
-![Demo](Images/ats1.png)
-![Demo](Images/ats2.png)
+![Demo](https://github.com/eshwarg14/AI-ML/blob/97f649e218195e813dd5755e03a8eaf88026a3a4/Images/ATSR.png)
 
 ---
 
